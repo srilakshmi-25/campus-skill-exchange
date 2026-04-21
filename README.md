@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # 🎓 Campus Skill Exchange Platform
@@ -306,3 +307,7 @@ campus-skill-exchange/
 Made with ❤️ for the Campus Community
 
 </div>
+=======
+# campus-skill-exchange
+A full-stack peer-to-peer learning platform where college students exchange skills, build trust, and grow together. Features intelligent matching, session management, ratings system, and an admin control panel.
+>>>>>>> ad1dbb988ae5efe6f1a2dee5e51338c3e7918b85
